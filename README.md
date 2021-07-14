@@ -20,13 +20,13 @@ on a line 3 positive integers indicating the number of cycles (C), the number of
 
 for example:
 
-(1) 10 3 3
+10 3 3
 
-(2) 3X
+3X
 
-(3) 3O
+3O
 
-(4) 3X
+3X
 
 This input will lead us to a simulation where the cycles are 10, the board is 3x3 and it is like this:
 
