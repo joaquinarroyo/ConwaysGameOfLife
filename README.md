@@ -21,8 +21,11 @@ on a line 3 positive integers indicating the number of cycles (C), the number of
 for example:
 
 (1) 10 3 3
+
 (2) 3X
+
 (3) 3O
+
 (4) 3X
 
 To compile the program you can use the 'make simulador' command.
