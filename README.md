@@ -1,5 +1,5 @@
 # ConwaysGameOfLife
-Authors: joaquinarroyo and NachoCainelli
+Authors: NachoCainelli(https://github.com/NachoCainelli) and joaquinarroyo(me)
 
 Conway's game of life implemented with threads in C
 
