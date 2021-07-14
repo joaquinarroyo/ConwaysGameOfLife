@@ -28,6 +28,14 @@ for example:
 
 (4) 3X
 
+This input will lead us to a simulation where the cycles are 10, the board is 3x3 and it is like this:
+
+XXX
+
+OOO
+
+XXX
+
 To compile the program you can use the 'make simulador' command.
 
 The compilation of the solution should leave an executable in the directory of name 'simulador'. And the executable is expected to take as standar input the name of the file where the board is. For example './simulador "board.txt" '
