@@ -21,10 +21,11 @@ on a line 3 positive integers indicating the number of cycles (C), the number of
 for example:
 
 10 3 3
-
 3X
-
 3O
-
 3X
+
+To compile the program you can use the 'make simulador' command.
+
+The compilation of the solution should leave an executable in the directory of name 'simulador'. And the executable is expected to take as standar input the name of the file where the board is. For example './simulador "board.txt" '
 
