@@ -36,7 +36,10 @@ OOO
 
 XXX
 
-To compile the program you can use the 'make simulador' command.
+To compile the program you can use the next command 
+```
+make simulador
+```
 
 The compilation of the solution should leave an executable in the directory of name 'simulador'. And the executable is expected to take as standar input the name of the file where the board is. For example './simulador "board.txt" '
 
