@@ -42,7 +42,8 @@ make simulador
 ```
 
 The compilation of the solution should leave an executable in the directory of name 'simulador'. And the executable is expected to take as standar input the name of the file where the board is. 
-For example ```
+For example 
+```
 ./simulador "board.txt"
 ```
 
