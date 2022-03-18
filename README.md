@@ -41,7 +41,10 @@ To compile the program you can use the next command
 make simulador
 ```
 
-The compilation of the solution should leave an executable in the directory of name 'simulador'. And the executable is expected to take as standar input the name of the file where the board is. For example './simulador "board.txt" '
+The compilation of the solution should leave an executable in the directory of name 'simulador'. And the executable is expected to take as standar input the name of the file where the board is. 
+For example ```
+./simulador "board.txt"
+```
 
 You've a report in spanish. (Working on a report in english 💤)
 
