@@ -1,7 +1,7 @@
-# ConwaysGameOfLife
-Authors: NachoCainelli(https://github.com/NachoCainelli) and joaquinarroyo(me)
+# Conway's "Concurrent" Game Of Life
+__Authors__ [Cainelli Ignacio](https://github.com/NachoCainelli) and Arroyo Joaquin.
 
-Conway's game of life implemented with threads in C
+Conway's game of life implemented with threads in C.
 
 The Game of Life was posed by the mathematician John Horton Congway in 1970. It's a game without players who posed as a cellular automaton. This means that the only interaction is given at the beginning of the game, posing a board initial, and then the system will evolve following the established rules.
 
@@ -46,6 +46,4 @@ For example
 ```
 ./simulador "board.txt"
 ```
-
-You've a report in spanish. (Working on a report in english 💤)
 
